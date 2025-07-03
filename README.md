@@ -26,9 +26,9 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?faizankhan1428&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?faizankhan1428&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhan1428&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faizankhan1428&theme=tokyonight)](https://git.io/streak-stats)
 
