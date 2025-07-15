@@ -45,22 +45,3 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge" />
 </p>
-
----
-
-### 🏷️ Skill Badges
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-5B8DF7?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00B894?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8e44ad?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/NLP-F39C12?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2980B9?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-34495E?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1ABC9C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
