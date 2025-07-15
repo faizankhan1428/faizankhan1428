@@ -24,14 +24,14 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-faizan-1335b0288/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox)](https://faizan-portfolio1.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankhandeshmukh28@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faixankhandeshmukh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizankhandeshmukh)
 
 ---
 
 ### 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
 
 <!-- Custom icons for AI/ML tools -->
