@@ -1,6 +1,6 @@
 <!-- Blue Gradient Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20to%20Muhammad%20Faizan's%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
 </p>
 
 <!-- Typing Intro Text -->
