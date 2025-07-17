@@ -1,9 +1,14 @@
-<!-- Light Blue Welcome Banner -->
+<!-- Blue Gradient Welcome Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20to%20Muhammad%20Faizan's%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+</p>
+
+<!-- Typing Intro Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Muhammad+Faizan;Aspiring+AI+Developer+|+Data+Scientist+|+Python+Enthusiast;&center=true&width=1000&height=50&color=5EB4FF&font=Fira%20Code&size=22&pause=1000">
 </p>
 
-<!-- Short Intro Text -->
+<!-- Short Subtitle -->
 <h3 align="center">Turning ideas into intelligent solutions using Python and AI</h3>
 
 <!-- Tech-style GIF -->
@@ -31,10 +36,9 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,jupyter" />
 </p>
 
-<!-- Custom icons for AI/ML tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -44,4 +48,15 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge" />
+</p>
+
+---
+
+<!-- Thank You Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=100&section=footer" />
 </p>
