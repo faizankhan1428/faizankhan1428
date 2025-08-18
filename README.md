@@ -61,7 +61,7 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight" alt="Faizan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight&count_private=true" alt="Faizan's GitHub stats" />
 </p>
 
 <p align="center">
