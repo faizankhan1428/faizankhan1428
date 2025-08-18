@@ -36,7 +36,7 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github,vscode,linux,jupyter,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,linux,jupyter,html,css,js" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -56,11 +56,11 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizankhandeshmukh&show_icons=true&theme=tokyonight" alt="Faizan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight" alt="Faizan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhandeshmukh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhan1428&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
