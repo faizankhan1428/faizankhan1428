@@ -36,7 +36,7 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,linux,jupyter,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,linux,html,css,js" />
 </p>
 
 <p align="center">
@@ -49,6 +49,11 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3182BD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
 ---
