@@ -3,11 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
 </p>
 
-<!-- Typing/Sliding Intro Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Muhammad+Faizan;+AI/ML+Developer+|+Data+Analyst+|+Python+Enthusiast;" alt="Sliding Intro"/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<!-- Typing Intro Text with New Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=5EB4FF&center=true&vCenter=true&width=1000&lines=**Hi+👋,+I'm+Muhammad+Faizan**;**AI/ML+Developer+|+Data+Analyst+|+Python+Enthusiast**" />
+</p>
 
 <!-- Short Subtitle -->
 <h3 align="center">Turning ideas into intelligent solutions using Python and AI</h3>
@@ -31,6 +30,7 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox)](https://faizan-portfolio1.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankhandeshmukh28@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizankhandeshmukh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/faizankhan1428)
 
 ---
 
@@ -71,11 +71,10 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 
 ---
 
-<!-- Thank You Banner with Sliding Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" alt="Thank you"/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<!-- Thank You Banner with New Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=600&lines=**Thanks+for+visiting+my+profile!**;**Feel+free+to+connect+%F0%9F%91%8B**" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=100&section=footer" />
