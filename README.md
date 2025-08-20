@@ -1,20 +1,18 @@
-<!-- Blue Gradient Welcome Banner -->
+<!-- Welcome Banner -->
+<h1 align="center">
+  Hi, I’m Muhammad Faizan!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Developer-%F0%9F%91%BB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/faizankhan1428?style=social" />
 </p>
 
-<!-- Typing Intro Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Muhammad+Faizan;AI/ML+Developer+|+Data+Analyst+|+Python+Enthusiast;&center=true&width=1000&height=50&color=5EB4FF&font=Fira%20Code&size=22&pause=1000">
-</p>
-
-<!-- Short Subtitle -->
-<h3 align="center">Turning ideas into intelligent solutions using Python and AI</h3>
-
-<!-- Tech-style GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Developer GIF">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Hi+👋+there!+I'm+Muhammad+Faizan;+AI/ML+Developer+|+Data+Analyst+|+Python+Enthusiast" alt="sliding intro"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ---
 
@@ -26,14 +24,27 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-faizan-1335b0288/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox)](https://faizan-portfolio1.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankhandeshmukh28@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizankhandeshmukh)
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-1335b0288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" style="margin-right:10px"/>
+  </a>
+  <a href="https://faizan-portfolio1.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firefox" width="48" style="margin-right:10px"/>
+  </a>
+  <a href="mailto:faizankhandeshmukh28@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" style="margin-right:10px"/>
+  </a>
+  <a href="https://www.kaggle.com/faizankhandeshmukh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" width="48" style="margin-right:10px"/>
+  </a>
+  <a href="https://x.com/faizankhan1428" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" />
+  </a>
+</div>
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,linux,html,css,js" />
@@ -61,20 +72,22 @@ I’m passionate about Artificial Intelligence and Machine Learning and enjoy wo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight&count_private=true" alt="Faizan's GitHub stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizankhan1428&theme=blue" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhan1428&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizankhan1428&theme=blue" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizankhan1428&theme=blue" width="49%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizankhan1428&theme=blue" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizankhan1428&theme=blue&utcOffset=5" width="49%" />
 </p>
 
 ---
 
-<!-- Thank You Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=100&section=footer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
