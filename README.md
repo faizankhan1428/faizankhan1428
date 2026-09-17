@@ -1,13 +1,17 @@
+<!-- Blue Gradient Welcome Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
 </p>
 
+<!-- Typing Intro Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Muhammad+Faizan+Khan;AI+Engineer+|+Autonomous+Agents+|+Computer+Vision;&center=true&width=1000&height=50&color=00D4FF&font=Fira+Code&size=22&pause=1000">
 </p>
 
+<!-- Short Subtitle -->
 <h3 align="center">Architecting Next-Gen Autonomous AI Agents & Production-Grade ML Systems</h3>
 
+<!-- Tech-style GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Engineer GIF">
 </p>
@@ -75,8 +79,9 @@ My technical specialization focuses on building high-performance deep learning m
 
 ---
 
+<!-- Thank You Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+intelligent+systems+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+intelligent+systems+👋" alt="Typing SVG" />
 </p>
 
 <p align="center">
