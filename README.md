@@ -68,13 +68,9 @@ My technical specialization focuses on building high-performance deep learning m
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizankhan1428&theme=react" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizankhan1428&theme=react" width="49%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizankhan1428&theme=react" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizankhan1428&theme=react&utcOffset=5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizankhan1428&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faizan's GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhan1428&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizankhan1428&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
