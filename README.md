@@ -36,7 +36,7 @@ My technical specialization focuses on building high-performance deep learning m
 
 ---
 
-### 💻 AI Workflows & Tooling (Vibe Coding Paradigm):
+### 💻 AI Workflows & Tooling:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
@@ -45,6 +45,8 @@ My technical specialization focuses on building high-performance deep learning m
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
+
+---
 
 ### 🤖 Core AI & Frameworks:
 
